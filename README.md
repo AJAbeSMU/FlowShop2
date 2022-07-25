@@ -11,6 +11,7 @@ We want to find out:
     
 <dl>
 <dt>Antithetic sequences in flowshop scheduling</dt>
+  
 <dd>Special cases of monster cell dominance</dd>
 <dd>Describing effects of monster cell of dominance in flow shop – [A flowshop is one in which all of the jobs follow essentially same path from one machine to another] </dd>
 <dd>Scheduling with minimization of mean lateness – [ The difference between the completion-time of a job and some pre-specified due date associated with that job] [ Lateness considers the algebraic difference for each job, regardless of the sign of the difference] </dd>
